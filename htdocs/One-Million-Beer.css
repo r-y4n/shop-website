@@ -209,8 +209,14 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1169px;
+  }
+
   .u-section-1 .u-product-1 {
     min-height: 1169px;
+    width: 340px;
+    margin: -74px auto 60px -6px;
   }
 
   .u-section-1 .u-container-layout-1 {
